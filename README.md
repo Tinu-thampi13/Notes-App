@@ -1,5 +1,8 @@
 # Notes App
 
+## Introduction
+The Notes App is a user-friendly and efficient application designed to help you create, edit, and store your notes right on your device. Whether you need to jot down ideas, create to-do lists, or keep track of important information, our app has you covered. With an easy-to-use interface and local storage capabilities, managing your notes has never been simpler.
+
 ## Project Preview
 <p float="left">
  <img src="https://github.com/Tinu-thampi13/Notes-App/assets/79778565/e1e1c335-9d9b-4fe5-b597-df68c51f8be1.jpeg" height= 400 width= 200 hspace="1"/>
@@ -9,8 +12,7 @@
 
 
 
-## Introduction
-The Notes App is a user-friendly and efficient application designed to help you create, edit, and store your notes right on your device. Whether you need to jot down ideas, create to-do lists, or keep track of important information, our app has you covered. With an easy-to-use interface and local storage capabilities, managing your notes has never been simpler.
+
 
 ## Features
 - **Create Notes**: Quickly create new notes and give them titles and content.
